@@ -48,8 +48,8 @@
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierAnimated</string>
 		<string>kPropertiesMenuItemIdentifierPosition</string>
+		<string>kPropertiesMenuItemIdentifierAnimated</string>
 	</array>
 	<key>documentVersion</key>
 	<string>574</string>
@@ -74,7 +74,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2017-11-23T00:54:52Z</date>
+	<date>2017-11-23T01:01:36Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -144,7 +144,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{271, 0}, {1328, 272}}</string>
+									<string>{{271, 0}, {1328, 240}}</string>
 									<key>identifier</key>
 									<string>container 4</string>
 									<key>isCustomizableViewContainer</key>
@@ -157,7 +157,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{271, 0}, {1328, 272}}</string>
+											<string>{{271, 0}, {1328, 240}}</string>
 											<key>identifier</key>
 											<string>timelineCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -167,7 +167,7 @@
 								</dict>
 								<dict>
 									<key>frame</key>
-									<string>{{271, 273}, {1328, 828}}</string>
+									<string>{{271, 241}, {1328, 860}}</string>
 									<key>identifier</key>
 									<string>container 3</string>
 									<key>isCustomizableViewContainer</key>
@@ -180,7 +180,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{271, 273}, {1328, 828}}</string>
+											<string>{{271, 241}, {1328, 860}}</string>
 											<key>identifier</key>
 											<string>sceneEditorCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -354,7 +354,7 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>12.466666221618652</real>
+							<real>12</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
@@ -416,10 +416,10 @@
 	<array>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>E9A6DCC5-6D6C-42B7-AE3F-9F794875FE26-54165-0000516B98175DDC</string>
+			<string>D8B699D7-BC90-4A7D-B48C-9E66A1429E75-54165-0000530CF1975202</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>14</string>
+				<string>31</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -558,27 +558,27 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorBottom</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>#D8DDE4</string>
+							<string>#F5F5F5</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -624,13 +624,13 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorLeft</string>
+							<string>BorderColorTop</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorTop</string>
+							<string>BorderColorLeft</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
 						</dict>
@@ -692,7 +692,7 @@
 							<key>identifier</key>
 							<string>Locked</string>
 							<key>objectValue</key>
-							<string>1</string>
+							<string>0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -708,42 +708,42 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#F5F5F5</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>16</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#F5F5F5</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ExplicitDimensions</string>
-							<key>objectValue</key>
-							<string>YES</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderColorBottom</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -857,7 +857,7 @@
 							<key>identifier</key>
 							<string>Locked</string>
 							<key>objectValue</key>
-							<string>1</string>
+							<string>0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -873,21 +873,6 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
-							<key>objectValue</key>
-							<string>0px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-					</array>
-					<key>17</key>
-					<array>
-						<dict>
-							<key>identifier</key>
 							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
@@ -898,17 +883,32 @@
 							<key>objectValue</key>
 							<string>#F5F5F5</string>
 						</dict>
+					</array>
+					<key>17</key>
+					<array>
 						<dict>
 							<key>identifier</key>
-							<string>ExplicitDimensions</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
-							<string>YES</string>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderColorBottom</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ExplicitDimensions</string>
+							<key>objectValue</key>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1022,7 +1022,7 @@
 							<key>identifier</key>
 							<string>Locked</string>
 							<key>objectValue</key>
-							<string>1</string>
+							<string>0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1038,36 +1038,30 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#F5F5F5</string>
 						</dict>
 					</array>
 					<key>31</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorBottom</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>#F90000</string>
+							<string>#FF2600</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1077,9 +1071,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Opacity</string>
+							<string>BorderColorBottom</string>
 							<key>objectValue</key>
-							<string>0</string>
+							<string>#F90000</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Cursor</string>
+							<key>objectValue</key>
+							<string>pointer</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1089,9 +1089,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Cursor</string>
+							<string>Opacity</string>
 							<key>objectValue</key>
-							<string>pointer</string>
+							<string>0</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1125,13 +1125,13 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorLeft</string>
+							<string>BorderColorTop</string>
 							<key>objectValue</key>
 							<string>#F90000</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorTop</string>
+							<string>BorderColorLeft</string>
 							<key>objectValue</key>
 							<string>#F90000</string>
 						</dict>
@@ -1229,15 +1229,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#FF2600</string>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
@@ -1341,7 +1341,7 @@
 								<key>referenceOid</key>
 								<string>16</string>
 								<key>startTime</key>
-								<real>1</real>
+								<real>2</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -1362,42 +1362,6 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.96666669845581055</real>
-								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0</string>
-								</dict>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>15</string>
-								<key>startTime</key>
-								<real>1.4666666984558105</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>1</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>198A647D-EB08-4481-978D-D9D5E796C8D0-54165-000051AFE0481440</string>
-								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
 								<real>0.0</real>
 								<key>identifier</key>
 								<string>Opacity</string>
@@ -1406,7 +1370,7 @@
 								<key>referenceOid</key>
 								<string>16</string>
 								<key>startTime</key>
-								<real>1.9666666984558105</real>
+								<real>2.9666666984558105</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -1440,9 +1404,74 @@
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
+								<string>15</string>
+								<key>startTime</key>
+								<real>3</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>1</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>198A647D-EB08-4481-978D-D9D5E796C8D0-54165-000051AFE0481440</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>15</string>
+								<key>startTime</key>
+								<real>3.9666666984558105</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>0</integer>
+								<key>uuid</key>
+								<string>11E2FAFA-6677-41BC-B635-7D24319A426F-54165-000051B0A25AF566</string>
+								<key>zIndex</key>
+								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.96666669845581055</real>
+								<key>endValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>Opacity</string>
+									<key>objectValue</key>
+									<string>0</string>
+								</dict>
+								<key>identifier</key>
+								<string>Opacity</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
 								<string>17</string>
 								<key>startTime</key>
-								<real>2</real>
+								<real>4</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -1469,38 +1498,9 @@
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
-								<string>15</string>
-								<key>startTime</key>
-								<real>2.4333333969116211</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>Opacity</string>
-									<key>objectValue</key>
-									<string>0</string>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>0</integer>
-								<key>uuid</key>
-								<string>11E2FAFA-6677-41BC-B635-7D24319A426F-54165-000051B0A25AF566</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>Opacity</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
 								<string>17</string>
 								<key>startTime</key>
-								<real>2.9666666984558105</real>
+								<real>4.9666666984558105</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -1536,7 +1536,7 @@
 								<key>referenceOid</key>
 								<string>31</string>
 								<key>startTime</key>
-								<real>9</real>
+								<real>12</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -1572,7 +1572,7 @@
 								<key>referenceOid</key>
 								<string>31</string>
 								<key>startTime</key>
-								<real>9.5</real>
+								<real>12.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -1608,7 +1608,7 @@
 								<key>referenceOid</key>
 								<string>31</string>
 								<key>startTime</key>
-								<real>10</real>
+								<real>13</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -1644,7 +1644,7 @@
 								<key>referenceOid</key>
 								<string>31</string>
 								<key>startTime</key>
-								<real>10.5</real>
+								<real>13.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -1680,7 +1680,7 @@
 								<key>referenceOid</key>
 								<string>31</string>
 								<key>startTime</key>
-								<real>11</real>
+								<real>14</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -1716,7 +1716,7 @@
 								<key>referenceOid</key>
 								<string>31</string>
 								<key>startTime</key>
-								<real>11.5</real>
+								<real>14.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -1752,7 +1752,7 @@
 								<key>referenceOid</key>
 								<string>31</string>
 								<key>startTime</key>
-								<real>12</real>
+								<real>15</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -1788,7 +1788,7 @@
 								<key>referenceOid</key>
 								<string>31</string>
 								<key>startTime</key>
-								<real>12.5</real>
+								<real>15.5</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -1818,7 +1818,14 @@
 									<dict>
 										<key>actions</key>
 										<array>
-											<dict/>
+											<dict>
+												<key>symbolOid</key>
+												<string>11</string>
+												<key>timelineIdentifier</key>
+												<string>kTimelineDefaultIdentifier</string>
+												<key>type</key>
+												<integer>7</integer>
+											</dict>
 										</array>
 									</dict>
 								</dict>
@@ -1829,7 +1836,7 @@
 								<key>referenceOid</key>
 								<string>kTimelineDefaultIdentifier</string>
 								<key>startTime</key>
-								<real>13</real>
+								<real>16</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -1872,7 +1879,7 @@
 								<key>referenceOid</key>
 								<string>31</string>
 								<key>startTime</key>
-								<real>13</real>
+								<real>16</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
@@ -1901,7 +1908,7 @@
 								<key>referenceOid</key>
 								<string>kTimelineDefaultIdentifier</string>
 								<key>startTime</key>
-								<real>15</real>
+								<real>18</real>
 								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
