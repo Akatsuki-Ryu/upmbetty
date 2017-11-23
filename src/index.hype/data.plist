@@ -76,7 +76,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2017-11-23T09:46:41Z</date>
+	<date>2017-11-23T09:50:36Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -415,7 +415,7 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>9.6000003814697266</real>
+							<real>12.100000381469727</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
@@ -480,7 +480,7 @@
 			<string>9B70CA2B-BF16-45FD-8C20-AFBC498B48E1-58734-000057F684CF10AE</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>36</string>
+				<string>37</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -1637,7 +1637,7 @@
 							<key>identifier</key>
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
-							<string>1</string>
+							<string>YES</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1709,7 +1709,7 @@
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>73px</string>
+							<string>143px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
